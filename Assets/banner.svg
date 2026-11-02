@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Subhajit Murmu - Student Builder, Entrepreneurship and Technology">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1F3A"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#ffffff" opacity="0.10"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#dots)"/>
+  <circle cx="1060" cy="60" r="170" fill="#ffffff" opacity="0.05"/>
+  <circle cx="1150" cy="290" r="120" fill="#99F6E4" opacity="0.08"/>
+
+  <text x="80" y="130" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff">Subhajit Murmu</text>
+  <text x="80" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" fill="#99F6E4">Student Builder  |  Entrepreneurship &amp; Technology</text>
+  <rect x="80" y="208" width="80" height="4" rx="2" fill="#99F6E4"/>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#ffffff">
+    <rect x="80" y="240" width="64" height="34" rx="17" fill="#ffffff" fill-opacity="0.14"/>
+    <text x="112" y="263" text-anchor="middle">BBA</text>
+    <rect x="156" y="240" width="104" height="34" rx="17" fill="#ffffff" fill-opacity="0.14"/>
+    <text x="208" y="263" text-anchor="middle">Business</text>
+    <rect x="272" y="240" width="50" height="34" rx="17" fill="#ffffff" fill-opacity="0.14"/>
+    <text x="297" y="263" text-anchor="middle">AI</text>
+    <rect x="334" y="240" width="124" height="34" rx="17" fill="#ffffff" fill-opacity="0.14"/>
+    <text x="396" y="263" text-anchor="middle">Automation</text>
+    <rect x="470" y="240" width="64" height="34" rx="17" fill="#ffffff" fill-opacity="0.14"/>
+    <text x="502" y="263" text-anchor="middle">Data</text>
+  </g>
+</svg>
